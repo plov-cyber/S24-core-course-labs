@@ -34,6 +34,7 @@ In this lab, you will learn how to manage sensitive data, such as passwords, tok
 5. Create a Pull Request in Your Own Repository:
    - Create a PR in your repository from the lab11 branch to the main one. This will facilitate the grading process.
 
+
 ## Task 2: Vault Secret Management System
 
 **4 Points:**

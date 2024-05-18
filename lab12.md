@@ -24,6 +24,7 @@ In this task, you'll enhance your application to persist data and explore Config
     - Submit a PR to merge your changes into the main branch of the forked repository.
     - Create a PR from the `lab12` branch to the main branch in your own repository.
 
+
 ## Task 2: ConfigMap Implementation
 
 **4 Points:**
